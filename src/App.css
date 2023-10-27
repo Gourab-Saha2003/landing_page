@@ -177,7 +177,7 @@
     margin: 6rem 0rem;
   }
   .contact-form-container {
-    background-color: white;
+    background-color: #e9e4e4;
     max-width: 700px;
     width: 100%;
     margin-top: 3rem;
@@ -187,6 +187,7 @@
     border-radius: 5rem;
   }
   .contact-form-container input {
+    background-color: #e9e4e4;
     flex: 1;
     height: 100%;
     border: none;
@@ -243,6 +244,9 @@
   }
   .testimonial-section-bottom {
     margin: 2rem auto;
+  }
+  .testimonial-section-bottom img{
+    height: 110px;
   }
   .testimonial-section-bottom p {
     font-weight: 700;
