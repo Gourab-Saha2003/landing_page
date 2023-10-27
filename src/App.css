@@ -17,7 +17,7 @@
   body {
     max-width: 100%;
     overflow-x: hidden;
-    background-color: #f6f6f6;
+    /* background-color: #f6f6f6; */
   }
   nav {
     display: flex;
@@ -45,6 +45,9 @@
     cursor: pointer;
     font-weight: 600;
     transition: 0.2s;
+  }
+  nav .nav-logo-container img{
+    height: 93px;
   }
   .navbar-cart-icon {
     font-size: 1.15rem;
